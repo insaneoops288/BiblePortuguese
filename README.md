@@ -1,2 +1,0 @@
-# BiblePortuguese
-BiblePortuguese
